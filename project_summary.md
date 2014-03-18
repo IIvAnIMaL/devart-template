@@ -1,4 +1,4 @@
-# Project Title
+Colour Accelerometer
 Colour Accelerometer
 
 ## Authors
