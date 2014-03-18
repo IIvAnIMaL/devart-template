@@ -1,5 +1,6 @@
-Colour Accelerometer
-Colour Accelerometer
+## The Colour Accelerometer
+
+
 
 ## Authors
 - Insert main author name, surname, github account
